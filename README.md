@@ -16,7 +16,7 @@ A clean, modern, and easy-to-use web template designed specifically for students
 ## Get the Full Version
 Want to access the full-featured version with more components and advanced functionality? 
 
-👉 **[Get it here on Gumroad - (Masukkan Link Gumroad Anda Sini)]**
+👉 **[https://saasify-boilerplate.netlify.app]**
 
 ---
 *Created by syamie templates*
